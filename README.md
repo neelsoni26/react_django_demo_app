@@ -110,7 +110,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Neel Soni - [@sonineelp](https://twitter.com/sonineelp) - [sonineep@gmail.com](mailto:sonineep@gmail.com) - [https://www.linkedin.com/in/sonineelp](https://www.linkedin.com/in/sonineelp) 
 
-Project Link: [https://github.com/neelsoni26/node-todo-cicd/](https://github.com/neelsoni26/node-todo-cicd/)
+Project Link: [https://github.com/neelsoni26/react_django_demo_app/](https://github.com/neelsoni26/react_django_demo_app/)
 
 <div align="right">
   <a href="https://github.com/neelsoni26/react_django_demo_app/#readme">(back to top)</a>
