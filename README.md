@@ -76,6 +76,7 @@ To stop and remove container:
 
 `docker-compose down`
 
+NB: This app works on port `8001`
 
 <div align="right">
   <a href="https://github.com/neelsoni26/react_django_demo_app/#readme">(back to top)</a>
